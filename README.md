@@ -4,9 +4,9 @@
 
 Mac 版本：10.15.5
 
-Opencore 版本：0.5.8
+Opencore 版本：0.5.9
 
-更新日期：2020-05-27
+更新日期：2020-06-18
 
 
 
@@ -59,7 +59,7 @@ Opencore 版本：0.5.8
 3. 默认使用`RealtekRTL8111.kext`，其他有线网卡自行更换驱动
 4. 避免与他人重复序列号，请使用`Hackintool`等工具重新生成三码
 5. 睡眠后RTC自动唤醒，请打开`Kernel->Patch->Disable RTC wake scheduling`
-6. 建议参考 [Dortania](https://dortania.github.io/OpenCore-Desktop-Guide/AMD/zen.html) 和 [XJN](https://blog.xjn819.com/?p=543) 的博客，对一些自定义的选项进行修改
+6. 建议参考 [Dortania](https://dortania.github.io/OpenCore-Desktop-Guide/AMD/zen.html) 和 [XJN](https://blog.xjn819.com/?p=543) 的博客，对一些选项进行自定义的修改
 
 
 
