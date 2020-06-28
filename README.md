@@ -1,6 +1,8 @@
 ### EFI概述
 
 > 通过 [Dortania](https://dortania.github.io/OpenCore-Desktop-Guide/AMD/zen.html) 和 [XJN](https://blog.xjn819.com/?p=543) 的博客，定制OpenCore引导，**建议参考博客内容做一些自定义的修改**
+>
+> 如果需要尝试MacOS 11，请转到新分支[OpenCore_Dev](https://github.com/heyxiaobai/MSI-B450m-MORTAR-Hackintosh/tree/OpenCore_Dev)
 
 Mac 版本：10.15.5
 
