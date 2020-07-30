@@ -53,6 +53,7 @@ Opencore 版本：0.5.9
 2. 如遇到黑屏情况，请尝试加启动参数`agdpmod=pikera`
 3. 默认注入声卡`ID`为`1`，如不能正常工作请尝试更换启动参数中`alcid=1`的值
 4. 默认使用`RealtekRTL8111.kext`，其他有线网卡自行更换
+5. 如遇 TV、Netflix 等带有 DRM 的视频解码黑屏问题，请尝试在启动参数中添加`shikigva=80`【感谢[@Butanediol](https://github.com/Butanediol)】
 
 
 
