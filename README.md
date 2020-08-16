@@ -4,11 +4,11 @@
 >
 > 如果需要尝试MacOS 11，请转到新分支[OpenCore_Dev](https://github.com/heyxiaobai/MSI-B450m-MORTAR-Hackintosh/tree/OpenCore_Dev)
 
-Mac 版本：10.15.5
+Mac 版本：10.15.6
 
-Opencore 版本：0.5.9
+Opencore 版本：0.6.0
 
-更新日期：2020-06-26
+更新日期：2020-08-16
 
 
 
@@ -51,9 +51,10 @@ Opencore 版本：0.5.9
 
 1. **登陆Apple ID前请先使用`Hackintool`等工具重新生成序列号等信息，避免与他人重复**
 2. 如遇到黑屏情况，请尝试加启动参数`agdpmod=pikera`
-3. 默认注入声卡`ID`为`1`，如不能正常工作请尝试更换启动参数中`alcid=1`的值
-4. 默认使用`RealtekRTL8111.kext`，其他有线网卡自行更换
-5. 如遇 TV、Netflix 等带有 DRM 的视频解码黑屏问题，请尝试在启动参数中添加`shikigva=80`【感谢[@Butanediol](https://github.com/Butanediol)】
+3. 需要开启HiDPI模式，请将`NVRAM -> Add -> 4D1EDE05-38C7-4A6A-9CC6-4BCCA8B38C14 -> UIScale`设置为`02`
+4. 默认注入声卡`ID`为`1`，如不能正常工作请尝试更换启动参数中`alcid=1`的值
+5. 默认使用`RealtekRTL8111.kext`，其他有线网卡自行更换
+6. 如遇 TV、Netflix 等带有 DRM 的视频解码黑屏问题，请尝试在启动参数中添加`shikigva=80`【感谢[@Butanediol](https://github.com/Butanediol)】
 
 
 
