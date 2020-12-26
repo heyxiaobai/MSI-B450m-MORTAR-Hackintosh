@@ -2,12 +2,15 @@
 
 > 通过 [Dortania](https://dortania.github.io/OpenCore-Desktop-Guide/AMD/zen.html) 定制OpenCore引导，**请自行参考进行一些自定义的修改**
 >
+> 因主用Intel平台，此EFI可能会更新不及时，且新版本未进行长时间的测试，有问题可以随时反馈，请多见谅！
 
-Mac 版本：10.15.7
+Mac 版本：11.1
 
-Opencore 版本：0.6.2
+Opencore 版本：0.6.4
 
-更新日期：2020-10-09
+更新日期：2020-12-26
+
+
 
 
 
